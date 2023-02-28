@@ -1,0 +1,22 @@
+{
+  "name": "how_to_git.prj",
+  "version": "1.0.0",
+  "description": "learning github",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsaved1/how-to-Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unsaved1/how-to-Git/issues"
+  },
+  "homepage": "https://github.com/unsaved1/how-to-Git#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
